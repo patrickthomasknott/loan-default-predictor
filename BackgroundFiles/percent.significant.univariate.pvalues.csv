@@ -1,0 +1,13 @@
+"","x"
+"loan_amnt",100
+"term",100
+"emp_length",100
+"home_ownership",60
+"purpose",64
+"dti",100
+"delinq_2yrs",100
+"inq_last_6mths",100
+"pub_rec",100
+"total_acc",100
+"time_since_first_loan",100
+"fac.annual_inc",90

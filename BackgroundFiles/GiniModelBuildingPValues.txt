@@ -1,0 +1,434 @@
+[[1]]
+                      (Intercept)                         loan_amnt 
+                     5.138187e-15                      5.176470e-10 
+                    term60 months                emp_length< 1 year 
+                     8.829181e-95                      1.931869e-07 
+                 emp_length1 year                 emp_length2 years 
+                     8.108906e-07                      1.303517e-08 
+                emp_length3 years                 emp_length4 years 
+                     1.725454e-07                      9.071531e-07 
+                emp_length5 years                 emp_length6 years 
+                     3.404137e-06                      3.402359e-06 
+                emp_length7 years                 emp_length8 years 
+                     3.485073e-05                      1.125840e-04 
+                emp_length9 years               emp_length10+ years 
+                     3.167893e-06                      2.057654e-04 
+               home_ownershipNONE               home_ownershipOTHER 
+                     4.606247e-01                      1.361495e-01 
+                home_ownershipOWN                home_ownershipRENT 
+                     5.979412e-01                      7.113752e-02 
+               purposecredit_card         purposedebt_consolidation 
+                     8.472256e-02                      3.007754e-04 
+                 purposeeducatiol           purposehome_improvement 
+                     6.921109e-07                      2.888792e-02 
+                     purposehouse             purposemajor_purchase 
+                     5.841351e-02                      2.911761e-01 
+                   purposemedical                     purposemoving 
+                     7.244285e-05                      6.104891e-05 
+                     purposeother           purposerenewable_energy 
+                     1.283369e-08                      1.063095e-01 
+            purposesmall_business                   purposevacation 
+                     5.521776e-27                      1.745341e-02 
+                   purposewedding                               dti 
+                     4.064494e-01                      1.792582e-07 
+                      delinq_2yrs                    inq_last_6mths 
+                     2.639755e-03                      3.740882e-77 
+                          pub_rec                         total_acc 
+                     1.457251e-15                      3.562516e-02 
+            time_since_first_loan     fac.annual_inc(3e+04,3.7e+04] 
+                     3.295620e-04                      1.470491e-01 
+ fac.annual_inc(3.7e+04,4.44e+04]    fac.annual_inc(4.44e+04,5e+04] 
+                     8.130715e-07                      1.419199e-07 
+   fac.annual_inc(5e+04,5.86e+04] fac.annual_inc(5.86e+04,6.53e+04] 
+                     1.263671e-09                      4.238467e-08 
+fac.annual_inc(6.53e+04,7.53e+04]    fac.annual_inc(7.53e+04,9e+04] 
+                     8.204470e-15                      1.042593e-16 
+   fac.annual_inc(9e+04,1.16e+05]    fac.annual_inc(1.16e+05,6e+06] 
+                     5.027572e-23                      1.442224e-18 
+
+[[2]]
+                      (Intercept)                         loan_amnt 
+                     3.470926e-17                      4.615707e-10 
+                    term60 months                emp_length< 1 year 
+                     6.218568e-94                      3.172447e-07 
+                 emp_length1 year                 emp_length2 years 
+                     1.248139e-06                      1.889869e-08 
+                emp_length3 years                 emp_length4 years 
+                     2.270895e-07                      1.092792e-06 
+                emp_length5 years                 emp_length6 years 
+                     3.689751e-06                      3.519454e-06 
+                emp_length7 years                 emp_length8 years 
+                     3.490555e-05                      1.102084e-04 
+                emp_length9 years               emp_length10+ years 
+                     2.935516e-06                      1.888106e-04 
+               purposecredit_card         purposedebt_consolidation 
+                     7.438420e-02                      2.173114e-04 
+                 purposeeducatiol           purposehome_improvement 
+                     4.742045e-07                      4.110013e-02 
+                     purposehouse             purposemajor_purchase 
+                     5.185638e-02                      2.804170e-01 
+                   purposemedical                     purposemoving 
+                     6.349633e-05                      3.566529e-05 
+                     purposeother           purposerenewable_energy 
+                     7.867289e-09                      1.077263e-01 
+            purposesmall_business                   purposevacation 
+                     4.495696e-27                      1.505537e-02 
+                   purposewedding                               dti 
+                     3.726613e-01                      1.111709e-07 
+                      delinq_2yrs                    inq_last_6mths 
+                     2.119039e-03                      4.904401e-77 
+                          pub_rec                         total_acc 
+                     1.876562e-15                      1.364047e-02 
+            time_since_first_loan     fac.annual_inc(3e+04,3.7e+04] 
+                     1.401917e-04                      1.393502e-01 
+ fac.annual_inc(3.7e+04,4.44e+04]    fac.annual_inc(4.44e+04,5e+04] 
+                     6.060000e-07                      8.274197e-08 
+   fac.annual_inc(5e+04,5.86e+04] fac.annual_inc(5.86e+04,6.53e+04] 
+                     4.796420e-10                      1.570971e-08 
+fac.annual_inc(6.53e+04,7.53e+04]    fac.annual_inc(7.53e+04,9e+04] 
+                     1.660647e-15                      1.422417e-17 
+   fac.annual_inc(9e+04,1.16e+05]    fac.annual_inc(1.16e+05,6e+06] 
+                     1.715923e-24                      9.357742e-20 
+
+[[3]]
+                      (Intercept)                         loan_amnt 
+                     7.037749e-17                      6.767158e-10 
+                    term60 months                emp_length< 1 year 
+                     1.129427e-93                      3.565289e-07 
+                 emp_length1 year                 emp_length2 years 
+                     1.339098e-06                      2.079770e-08 
+                emp_length3 years                 emp_length4 years 
+                     2.345447e-07                      1.126541e-06 
+                emp_length5 years                 emp_length6 years 
+                     3.857514e-06                      3.478413e-06 
+                emp_length7 years                 emp_length8 years 
+                     3.496592e-05                      9.675967e-05 
+                emp_length9 years               emp_length10+ years 
+                     2.500013e-06                      1.657699e-04 
+               purposecredit_card         purposedebt_consolidation 
+                     7.643426e-02                      2.386280e-04 
+                 purposeeducatiol           purposehome_improvement 
+                     4.244598e-07                      4.378686e-02 
+                     purposehouse             purposemajor_purchase 
+                     4.998348e-02                      2.710425e-01 
+                   purposemedical                     purposemoving 
+                     6.693621e-05                      3.364276e-05 
+                     purposeother           purposerenewable_energy 
+                     6.455805e-09                      1.121036e-01 
+            purposesmall_business                   purposevacation 
+                     2.894922e-27                      1.575262e-02 
+                   purposewedding                               dti 
+                     3.497810e-01                      1.454528e-06 
+                      delinq_2yrs                    inq_last_6mths 
+                     3.413952e-03                      9.855249e-76 
+                          pub_rec             time_since_first_loan 
+                     8.990248e-16                      3.806394e-06 
+    fac.annual_inc(3e+04,3.7e+04]  fac.annual_inc(3.7e+04,4.44e+04] 
+                     1.120313e-01                      1.966292e-07 
+   fac.annual_inc(4.44e+04,5e+04]    fac.annual_inc(5e+04,5.86e+04] 
+                     1.435414e-08                      3.470210e-11 
+fac.annual_inc(5.86e+04,6.53e+04] fac.annual_inc(6.53e+04,7.53e+04] 
+                     9.573709e-10                      1.180424e-17 
+   fac.annual_inc(7.53e+04,9e+04]    fac.annual_inc(9e+04,1.16e+05] 
+                     2.105192e-20                      9.995624e-29 
+   fac.annual_inc(1.16e+05,6e+06] 
+                     5.140279e-24 
+
+[[4]]
+                      (Intercept)                         loan_amnt 
+                     5.120118e-17                      1.562411e-09 
+                    term60 months                emp_length< 1 year 
+                     4.384280e-94                      4.082619e-07 
+                 emp_length1 year                 emp_length2 years 
+                     1.821339e-06                      2.686739e-08 
+                emp_length3 years                 emp_length4 years 
+                     2.848556e-07                      1.353749e-06 
+                emp_length5 years                 emp_length6 years 
+                     4.300667e-06                      4.063477e-06 
+                emp_length7 years                 emp_length8 years 
+                     4.056676e-05                      1.200931e-04 
+                emp_length9 years               emp_length10+ years 
+                     2.851168e-06                      1.890979e-04 
+               purposecredit_card         purposedebt_consolidation 
+                     8.061534e-02                      2.329609e-04 
+                 purposeeducatiol           purposehome_improvement 
+                     3.927235e-07                      4.178050e-02 
+                     purposehouse             purposemajor_purchase 
+                     4.734262e-02                      2.586469e-01 
+                   purposemedical                     purposemoving 
+                     5.630002e-05                      3.049056e-05 
+                     purposeother           purposerenewable_energy 
+                     5.041241e-09                      1.128954e-01 
+            purposesmall_business                   purposevacation 
+                     2.195653e-27                      1.530905e-02 
+                   purposewedding                               dti 
+                     3.342219e-01                      2.179919e-06 
+                   inq_last_6mths                           pub_rec 
+                     3.483560e-76                      8.546461e-16 
+            time_since_first_loan     fac.annual_inc(3e+04,3.7e+04] 
+                     9.020389e-06                      1.161259e-01 
+ fac.annual_inc(3.7e+04,4.44e+04]    fac.annual_inc(4.44e+04,5e+04] 
+                     2.157351e-07                      1.616877e-08 
+   fac.annual_inc(5e+04,5.86e+04] fac.annual_inc(5.86e+04,6.53e+04] 
+                     4.594974e-11                      1.199258e-09 
+fac.annual_inc(6.53e+04,7.53e+04]    fac.annual_inc(7.53e+04,9e+04] 
+                     1.689263e-17                      3.185127e-20 
+   fac.annual_inc(9e+04,1.16e+05]    fac.annual_inc(1.16e+05,6e+06] 
+                     1.881580e-28                      1.178686e-23 
+
+[[5]]
+                      (Intercept)                         loan_amnt 
+                     2.677540e-20                      4.265645e-10 
+                    term60 months                emp_length< 1 year 
+                     1.301755e-96                      4.860773e-07 
+                 emp_length1 year                 emp_length2 years 
+                     2.478920e-06                      4.234923e-08 
+                emp_length3 years                 emp_length4 years 
+                     4.216493e-07                      2.057169e-06 
+                emp_length5 years                 emp_length6 years 
+                     7.017117e-06                      7.232519e-06 
+                emp_length7 years                 emp_length8 years 
+                     6.053483e-05                      2.024915e-04 
+                emp_length9 years               emp_length10+ years 
+                     4.620396e-06                      2.990750e-04 
+               purposecredit_card         purposedebt_consolidation 
+                     2.618769e-02                      3.247130e-05 
+                 purposeeducatiol           purposehome_improvement 
+                     3.193664e-07                      3.710144e-02 
+                     purposehouse             purposemajor_purchase 
+                     5.604712e-02                      2.539274e-01 
+                   purposemedical                     purposemoving 
+                     3.534711e-05                      2.129774e-05 
+                     purposeother           purposerenewable_energy 
+                     1.609362e-09                      1.038943e-01 
+            purposesmall_business                   purposevacation 
+                     2.337322e-27                      1.208720e-02 
+                   purposewedding                    inq_last_6mths 
+                     2.714004e-01                      4.317881e-78 
+                          pub_rec             time_since_first_loan 
+                     1.479040e-15                      4.510812e-05 
+    fac.annual_inc(3e+04,3.7e+04]  fac.annual_inc(3.7e+04,4.44e+04] 
+                     1.437140e-01                      2.931237e-07 
+   fac.annual_inc(4.44e+04,5e+04]    fac.annual_inc(5e+04,5.86e+04] 
+                     1.896547e-08                      5.277546e-11 
+fac.annual_inc(5.86e+04,6.53e+04] fac.annual_inc(6.53e+04,7.53e+04] 
+                     6.886802e-10                      7.109101e-18 
+   fac.annual_inc(7.53e+04,9e+04]    fac.annual_inc(9e+04,1.16e+05] 
+                     4.102130e-21                      5.979491e-30 
+   fac.annual_inc(1.16e+05,6e+06] 
+                     2.340185e-26 
+
+[[6]]
+                      (Intercept)                         loan_amnt 
+                     6.781825e-17                      2.098559e-09 
+                    term60 months                emp_length< 1 year 
+                     5.420880e-96                      1.607059e-05 
+                 emp_length1 year                 emp_length2 years 
+                     6.424218e-05                      1.937983e-06 
+                emp_length3 years                 emp_length4 years 
+                     1.394632e-05                      5.154585e-05 
+                emp_length5 years                 emp_length6 years 
+                     1.332099e-04                      1.126508e-04 
+                emp_length7 years                 emp_length8 years 
+                     5.859189e-04                      1.397590e-03 
+                emp_length9 years               emp_length10+ years 
+                     4.453564e-05                      1.349774e-03 
+               purposecredit_card         purposedebt_consolidation 
+                     2.444620e-02                      2.366769e-05 
+                 purposeeducatiol           purposehome_improvement 
+                     2.767044e-07                      3.663321e-02 
+                     purposehouse             purposemajor_purchase 
+                     4.813189e-02                      2.275673e-01 
+                   purposemedical                     purposemoving 
+                     3.288105e-05                      1.342840e-05 
+                     purposeother           purposerenewable_energy 
+                     1.045920e-09                      1.104492e-01 
+            purposesmall_business                   purposevacation 
+                     1.034408e-27                      1.157450e-02 
+                   purposewedding                    inq_last_6mths 
+                     2.060573e-01                      2.398190e-79 
+                          pub_rec     fac.annual_inc(3e+04,3.7e+04] 
+                     4.782805e-15                      9.507306e-02 
+ fac.annual_inc(3.7e+04,4.44e+04]    fac.annual_inc(4.44e+04,5e+04] 
+                     6.151772e-08                      2.079276e-09 
+   fac.annual_inc(5e+04,5.86e+04] fac.annual_inc(5.86e+04,6.53e+04] 
+                     2.332576e-12                      2.697417e-11 
+fac.annual_inc(6.53e+04,7.53e+04]    fac.annual_inc(7.53e+04,9e+04] 
+                     3.577659e-20                      3.554612e-24 
+   fac.annual_inc(9e+04,1.16e+05]    fac.annual_inc(1.16e+05,6e+06] 
+                     2.189492e-34                      1.783328e-31 
+
+[[7]]
+                      (Intercept)                         loan_amnt 
+                     2.677540e-20                      4.265645e-10 
+                    term60 months                emp_length< 1 year 
+                     1.301755e-96                      4.860773e-07 
+                 emp_length1 year                 emp_length2 years 
+                     2.478920e-06                      4.234923e-08 
+                emp_length3 years                 emp_length4 years 
+                     4.216493e-07                      2.057169e-06 
+                emp_length5 years                 emp_length6 years 
+                     7.017117e-06                      7.232519e-06 
+                emp_length7 years                 emp_length8 years 
+                     6.053483e-05                      2.024915e-04 
+                emp_length9 years               emp_length10+ years 
+                     4.620396e-06                      2.990750e-04 
+               purposecredit_card         purposedebt_consolidation 
+                     2.618769e-02                      3.247130e-05 
+                 purposeeducatiol           purposehome_improvement 
+                     3.193664e-07                      3.710144e-02 
+                     purposehouse             purposemajor_purchase 
+                     5.604712e-02                      2.539274e-01 
+                   purposemedical                     purposemoving 
+                     3.534711e-05                      2.129774e-05 
+                     purposeother           purposerenewable_energy 
+                     1.609362e-09                      1.038943e-01 
+            purposesmall_business                   purposevacation 
+                     2.337322e-27                      1.208720e-02 
+                   purposewedding                    inq_last_6mths 
+                     2.714004e-01                      4.317881e-78 
+                          pub_rec     fac.annual_inc(3e+04,3.7e+04] 
+                     1.479040e-15                      1.437140e-01 
+ fac.annual_inc(3.7e+04,4.44e+04]    fac.annual_inc(4.44e+04,5e+04] 
+                     2.931237e-07                      1.896547e-08 
+   fac.annual_inc(5e+04,5.86e+04] fac.annual_inc(5.86e+04,6.53e+04] 
+                     5.277546e-11                      6.886802e-10 
+fac.annual_inc(6.53e+04,7.53e+04]    fac.annual_inc(7.53e+04,9e+04] 
+                     7.109101e-18                      4.102130e-21 
+   fac.annual_inc(9e+04,1.16e+05]    fac.annual_inc(1.16e+05,6e+06] 
+                     5.979491e-30                      2.340185e-26 
+            time_since_first_loan 
+                     4.510812e-05 
+
+[[8]]
+                      (Intercept)                     term60 months 
+                     2.078738e-17                     5.342283e-131 
+               emp_length< 1 year                  emp_length1 year 
+                     1.232281e-05                      6.057137e-05 
+                emp_length2 years                 emp_length3 years 
+                     1.626751e-06                      1.366875e-05 
+                emp_length4 years                 emp_length5 years 
+                     5.196306e-05                      1.377904e-04 
+                emp_length6 years                 emp_length7 years 
+                     1.122199e-04                      6.292814e-04 
+                emp_length8 years                 emp_length9 years 
+                     1.531772e-03                      5.475619e-05 
+              emp_length10+ years                purposecredit_card 
+                     1.768265e-03                      1.645378e-03 
+        purposedebt_consolidation                  purposeeducatiol 
+                     6.498955e-08                      7.346117e-08 
+          purposehome_improvement                      purposehouse 
+                     9.085776e-03                      1.368274e-02 
+            purposemajor_purchase                    purposemedical 
+                     1.365693e-01                      1.408809e-05 
+                    purposemoving                      purposeother 
+                     7.133618e-06                      1.058610e-10 
+          purposerenewable_energy             purposesmall_business 
+                     8.971630e-02                      7.425497e-33 
+                  purposevacation                    purposewedding 
+                     1.184725e-02                      9.210285e-02 
+                   inq_last_6mths                           pub_rec 
+                     7.016654e-78                      7.386275e-14 
+    fac.annual_inc(3e+04,3.7e+04]  fac.annual_inc(3.7e+04,4.44e+04] 
+                     1.799661e-01                      8.854074e-07 
+   fac.annual_inc(4.44e+04,5e+04]    fac.annual_inc(5e+04,5.86e+04] 
+                     9.465825e-08                      5.413962e-10 
+fac.annual_inc(5.86e+04,6.53e+04] fac.annual_inc(6.53e+04,7.53e+04] 
+                     1.235701e-08                      3.665637e-16 
+   fac.annual_inc(7.53e+04,9e+04]    fac.annual_inc(9e+04,1.16e+05] 
+                     5.133525e-19                      4.528530e-28 
+   fac.annual_inc(1.16e+05,6e+06] 
+                     2.176883e-24 
+
+[[9]]
+                      (Intercept)                     term60 months 
+                     1.072370e-13                     9.447929e-136 
+               purposecredit_card         purposedebt_consolidation 
+                     1.746901e-03                      8.752893e-08 
+                 purposeeducatiol           purposehome_improvement 
+                     1.205675e-07                      6.370626e-03 
+                     purposehouse             purposemajor_purchase 
+                     1.438882e-02                      1.433493e-01 
+                   purposemedical                     purposemoving 
+                     9.910198e-06                      1.136099e-05 
+                     purposeother           purposerenewable_energy 
+                     9.469036e-11                      7.650346e-02 
+            purposesmall_business                   purposevacation 
+                     2.001987e-32                      7.844537e-03 
+                   purposewedding                    inq_last_6mths 
+                     1.406602e-01                      6.743595e-77 
+                          pub_rec     fac.annual_inc(3e+04,3.7e+04] 
+                     3.407265e-15                      1.504805e-01 
+ fac.annual_inc(3.7e+04,4.44e+04]    fac.annual_inc(4.44e+04,5e+04] 
+                     4.411796e-07                      4.604725e-08 
+   fac.annual_inc(5e+04,5.86e+04] fac.annual_inc(5.86e+04,6.53e+04] 
+                     3.555237e-10                      9.381401e-09 
+fac.annual_inc(6.53e+04,7.53e+04]    fac.annual_inc(7.53e+04,9e+04] 
+                     2.500146e-16                      2.218253e-19 
+   fac.annual_inc(9e+04,1.16e+05]    fac.annual_inc(1.16e+05,6e+06] 
+                     1.496131e-28                      7.400491e-25 
+
+[[10]]
+                      (Intercept)                     term60 months 
+                     2.409123e-14                     1.281495e-135 
+               purposecredit_card         purposedebt_consolidation 
+                     1.529579e-03                      7.013715e-08 
+                 purposeeducatiol           purposehome_improvement 
+                     1.529996e-07                      5.060610e-03 
+                     purposehouse             purposemajor_purchase 
+                     1.597290e-02                      1.624435e-01 
+                   purposemedical                     purposemoving 
+                     4.473973e-06                      1.247062e-05 
+                     purposeother           purposerenewable_energy 
+                     1.139267e-10                      7.092987e-02 
+            purposesmall_business                   purposevacation 
+                     1.594764e-32                      6.069177e-03 
+                   purposewedding                    inq_last_6mths 
+                     1.543841e-01                      5.058445e-81 
+    fac.annual_inc(3e+04,3.7e+04]  fac.annual_inc(3.7e+04,4.44e+04] 
+                     1.777489e-01                      5.690153e-07 
+   fac.annual_inc(4.44e+04,5e+04]    fac.annual_inc(5e+04,5.86e+04] 
+                     7.496563e-08                      5.598059e-10 
+fac.annual_inc(5.86e+04,6.53e+04] fac.annual_inc(6.53e+04,7.53e+04] 
+                     1.511621e-08                      5.353491e-16 
+   fac.annual_inc(7.53e+04,9e+04]    fac.annual_inc(9e+04,1.16e+05] 
+                     6.271713e-19                      1.480012e-28 
+   fac.annual_inc(1.16e+05,6e+06] 
+                     2.426130e-25 
+
+[[11]]
+                      (Intercept)                     term60 months 
+                    1.217812e-124                     5.297557e-136 
+                   inq_last_6mths     fac.annual_inc(3e+04,3.7e+04] 
+                     1.716071e-87                      1.440375e-01 
+ fac.annual_inc(3.7e+04,4.44e+04]    fac.annual_inc(4.44e+04,5e+04] 
+                     1.682981e-07                      3.797629e-08 
+   fac.annual_inc(5e+04,5.86e+04] fac.annual_inc(5.86e+04,6.53e+04] 
+                     7.419902e-11                      6.857837e-09 
+fac.annual_inc(6.53e+04,7.53e+04]    fac.annual_inc(7.53e+04,9e+04] 
+                     6.348284e-17                      4.050463e-20 
+   fac.annual_inc(9e+04,1.16e+05]    fac.annual_inc(1.16e+05,6e+06] 
+                     8.366127e-30                      2.759897e-26 
+
+[[12]]
+   (Intercept)  term60 months inq_last_6mths 
+ 2.411936e-235  5.914434e-122   1.222987e-84 
+
+[[13]]
+                      (Intercept)                     term60 months 
+                    1.217812e-124                     5.297557e-136 
+                   inq_last_6mths     fac.annual_inc(3e+04,3.7e+04] 
+                     1.716071e-87                      1.440375e-01 
+ fac.annual_inc(3.7e+04,4.44e+04]    fac.annual_inc(4.44e+04,5e+04] 
+                     1.682981e-07                      3.797629e-08 
+   fac.annual_inc(5e+04,5.86e+04] fac.annual_inc(5.86e+04,6.53e+04] 
+                     7.419902e-11                      6.857837e-09 
+fac.annual_inc(6.53e+04,7.53e+04]    fac.annual_inc(7.53e+04,9e+04] 
+                     6.348284e-17                      4.050463e-20 
+   fac.annual_inc(9e+04,1.16e+05]    fac.annual_inc(1.16e+05,6e+06] 
+                     8.366127e-30                      2.759897e-26 
+
+[[14]]
+  (Intercept) term60 months 
+ 0.000000e+00 9.242475e-118 
+

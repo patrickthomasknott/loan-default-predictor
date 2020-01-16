@@ -1,0 +1,21 @@
+"","V1","V2"
+"1","loan_amnt+term+emp_length+purpose+inq_last_6mths+pub_rec+time_since_first_loan+fac.annual_inc","0.3418"
+"2","loan_amnt+term+emp_length+purpose+inq_last_6mths+pub_rec+fac.annual_inc","0.3393"
+"3","term+emp_length+purpose+inq_last_6mths+pub_rec+fac.annual_inc","0.3366"
+"4","term+purpose+inq_last_6mths+pub_rec+fac.annual_inc","0.3334"
+"5","term+purpose+inq_last_6mths+fac.annual_inc","0.3288"
+"6","term+inq_last_6mths+fac.annual_inc","0.2954"
+"7","term+purpose+inq_last_6mths+fac.annual_inc+term:annual income+term:purpose","0.3307"
+"8",NA,NA
+"9",NA,NA
+"10",NA,NA
+"11",NA,NA
+"12",NA,NA
+"13",NA,NA
+"14",NA,NA
+"15",NA,NA
+"16",NA,NA
+"17",NA,NA
+"18",NA,NA
+"19",NA,NA
+"20",NA,NA

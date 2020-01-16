@@ -1,0 +1,21 @@
+"","Model","Gini","AIC","Reducing or adding a predictor?","Predictor being assessed"
+"1","Full model","0.356865409111804","21056.9703694355","Nil","Nil"
+"2","loan_amnt+term+emp_length+purpose+dti+delinq_2yrs+inq_last_6mths+pub_rec+total_acc+time_since_first_loan+fac.annual_inc","0.356665604763738","21054.5726153968","Reduction","home_ownership"
+"3","loan_amnt+term+emp_length+purpose+dti+delinq_2yrs+inq_last_6mths+pub_rec+time_since_first_loan+fac.annual_inc","0.356168574067917","21058.6656783771","Reduction","total_acc"
+"4","loan_amnt+term+emp_length+purpose+dti+inq_last_6mths+pub_rec+time_since_first_loan+fac.annual_inc","0.355317536063285","21065.2498996792","Reduction","delinq_2yrs"
+"5","loan_amnt+term+emp_length+purpose+dti+inq_last_6mths+pub_rec+fac.annual_inc","0.352398192366268","21082.9860010023","Reduction","time_since_first_loan"
+"6","loan_amnt+term+purpose+dti+inq_last_6mths+pub_rec+fac.annual_inc","0.348604277192176","21094.2052417682","Reduction","emp_length"
+"7","loan_amnt+term+purpose+dti+inq_last_6mths+pub_rec+fac.annual_inc + emp_length","0.352398192366268","21082.9860010023","Addition","emp_length"
+"8","loan_amnt+term+purpose+inq_last_6mths+pub_rec+fac.annual_inc","0.345725903344787","21112.5427074855","Reduction","dti"
+"9","term+purpose+inq_last_6mths+pub_rec+fac.annual_inc","0.341876447296812","21148.2726585581","Reduction","loan_amnt"
+"10","term+purpose+inq_last_6mths+fac.annual_inc","0.334458753150596","21208.3453803951","Reduction","pub_rec"
+"11","term+purpose+inq_last_6mths","0.304014133711567","21406.5072840354","Reduction","fac.annual_inc"
+"12","term+inq_last_6mths","0.26659454538718","21626.9191384286","Reduction","purpose"
+"13","term+inq_last_6mths + purpose","0.304014133711567","21406.5072840354","Addition","purpose"
+"14","term","0.164803060771037","22004.9998577721","Reduction","inq_last_6mths"
+"15",NA,NA,NA,NA,NA
+"16",NA,NA,NA,NA,NA
+"17",NA,NA,NA,NA,NA
+"18",NA,NA,NA,NA,NA
+"19",NA,NA,NA,NA,NA
+"20",NA,NA,NA,NA,NA

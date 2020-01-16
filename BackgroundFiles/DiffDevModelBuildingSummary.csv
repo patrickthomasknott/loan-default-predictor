@@ -1,0 +1,21 @@
+"","Model","p-value","Reducing or adding a predictor?","Predictor being assessed"
+"1",NA,NA,NA,NA
+"2","loan_amnt+term+emp_length+purpose+dti+delinq_2yrs+inq_last_6mths+pub_rec+total_acc+time_since_first_loan+fac.annual_inc","0.953978062505567","Reduction","home_ownership"
+"3","loan_amnt+term+purpose+dti+delinq_2yrs+inq_last_6mths+pub_rec+total_acc+time_since_first_loan+fac.annual_inc","0.888776574619956","Reduction","emp_length"
+"4","loan_amnt+term+purpose+dti+delinq_2yrs+inq_last_6mths+pub_rec+total_acc+fac.annual_inc","0.484561048772679","Reduction","time_since_first_loan"
+"5","loan_amnt+term+purpose+dti+inq_last_6mths+pub_rec+total_acc+fac.annual_inc","0.315709926667849","Reduction","delinq_2yrs"
+"6","loan_amnt+term+purpose+dti+inq_last_6mths+pub_rec+fac.annual_inc","0.331741277654582","Reduction","total_acc"
+"7","loan_amnt+term+purpose+inq_last_6mths+pub_rec+fac.annual_inc","0.116092089733004","Reduction","dti"
+"8","term+purpose+inq_last_6mths+pub_rec+fac.annual_inc","0.0322420428966516","Reduction","loan_amnt"
+"9","term+inq_last_6mths+pub_rec+fac.annual_inc","0.00718485208386332","Reduction","purpose"
+"10","term+inq_last_6mths+fac.annual_inc","0.00552393664591533","Reduction","pub_rec"
+"11","term+inq_last_6mths","0.000951437224359086","Reduction","fac.annual_inc"
+"12","term","5.84099435485541e-12","Reduction","inq_last_6mths"
+"13",NA,NA,NA,NA
+"14",NA,NA,NA,NA
+"15",NA,NA,NA,NA
+"16",NA,NA,NA,NA
+"17",NA,NA,NA,NA
+"18",NA,NA,NA,NA
+"19",NA,NA,NA,NA
+"20",NA,NA,NA,NA
